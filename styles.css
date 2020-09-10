@@ -1,0 +1,30 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  background-image: url(images/pic_1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-responsive {
+  font-size: 10vw;
+}
+
+.purple-bg {
+  background-color: #c271ff;
+}
+
+.purple-text {
+  color: #c271ff;
+}
+
+.font-32 {
+  font-size: 32px;
+}
+
+.font-18 {
+  font-size: 18px;
+}
