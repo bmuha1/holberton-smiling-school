@@ -2,7 +2,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-body {
+header {
   background-image: url(images/pic_1.jpg);
   background-position: center;
   background-size: cover;
@@ -25,6 +25,15 @@ body {
   font-size: 32px;
 }
 
+.font-22 {
+  font-size: 22px;
+}
+
 .font-18 {
   font-size: 18px;
+}
+
+.holberton_school-icon-arrow_3,
+.holberton_school-icon-arrow_4 {
+  font-size: 5rem;
 }
