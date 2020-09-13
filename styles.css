@@ -13,6 +13,10 @@ header {
   font-size: 10vw;
 }
 
+.black-bg {
+  background-color: #071629;
+}
+
 .purple-bg {
   background-color: #c271ff;
 }
