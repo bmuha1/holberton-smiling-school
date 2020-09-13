@@ -58,3 +58,12 @@ header {
 .play-img {
   margin: -110px 0 40px 85px;
 }
+
+[class^='holberton_school-icon-ic'] {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.opacity-35 {
+  opacity: 0.35;
+}
