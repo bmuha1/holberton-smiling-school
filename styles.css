@@ -9,6 +9,10 @@ header {
   background-repeat: no-repeat;
 }
 
+.pricing-header {
+  background-image: url(images/pic_2.jpg);
+}
+
 .text-responsive {
   font-size: 10vw;
 }
@@ -23,6 +27,10 @@ header {
 
 .purple-text {
   color: #c271ff;
+}
+
+.font-60 {
+  font-size: 60px;
 }
 
 .font-32 {
@@ -66,4 +74,19 @@ header {
 
 .opacity-35 {
   opacity: 0.35;
+}
+
+.underline {
+  position: relative;
+}
+
+.underline:after {
+  content: '';
+  position: absolute;
+  width: 77%;
+  display: block;
+  height: 3px;
+  background-color: #ffffff;
+  bottom: 5px;
+  border-radius: 3px;
 }
