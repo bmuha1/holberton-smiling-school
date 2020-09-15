@@ -37,6 +37,10 @@ header {
   color: #c271ff;
 }
 
+.lightpurple-bg {
+  background-color: #d195ff;
+}
+
 .font-60 {
   font-size: 60px;
 }
@@ -118,4 +122,36 @@ header {
 
 .ul-pricing:after {
   width: 55px;
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.dropdown-spacing {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.search-form {
+  height: 50px;
+}
+
+.search-form:focus {
+  background-color: #d195ff;
+}
+
+.search-form::placeholder {
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+.icon-bg {
+  background-color: #d195ff;
+  font-size: 28px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border-top-style: rounded;
 }
