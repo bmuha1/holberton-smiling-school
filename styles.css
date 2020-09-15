@@ -2,6 +2,10 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+.coiny {
+  font-family: 'Coiny';
+}
+
 header {
   background-image: url(images/pic_1.jpg);
   background-position: center;
