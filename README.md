@@ -1,12 +1,14 @@
 # 0x0B. Implement a design with bootstrap
 
 ## Learning Objectives:bulb:
-What you should learn from this project:
+
 In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
 
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
 
-Here the final result:
+Here's the final result:
+
+![Final result](https://raw.githubusercontent.com/bmuha1/holberton-smiling-school/master/images/holberton-smiling-school.jpg)
 ---
 
 ### [0. Read and be familiar with Figma](./README.md)
